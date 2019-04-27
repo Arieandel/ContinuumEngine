@@ -1,0 +1,21 @@
+﻿  ContinuumEngine.cpp
+c:\users\khoi vu\desktop\daengine\continuumengine\continuumengine\deps\include\reactphysics\collision\shapes\heightfieldshape.h(257): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+c:\users\khoi vu\desktop\daengine\continuumengine\continuumengine\deps\include\reactphysics\collision\shapes\heightfieldshape.h(265): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+c:\users\khoi vu\desktop\daengine\continuumengine\continuumengine\continuumengine3d\engine\continuumengine.cpp(380): warning C4150: deletion of pointer to incomplete type '_SDL_GameController'; no destructor called
+  c:\users\khoi vu\desktop\daengine\continuumengine\continuumengine\deps\include\sdl\sdl_gamecontroller.h(58): note: see declaration of '_SDL_GameController'
+c:\users\khoi vu\desktop\daengine\continuumengine\continuumengine\continuumengine3d\engine\continuumengine.cpp(382): warning C4150: deletion of pointer to incomplete type '_SDL_Joystick'; no destructor called
+  c:\users\khoi vu\desktop\daengine\continuumengine\continuumengine\deps\include\sdl\sdl_joystick.h(67): note: see declaration of '_SDL_Joystick'
+c:\users\khoi vu\desktop\daengine\continuumengine\continuumengine\continuumengine3d\engine\continuumengine.cpp(845): warning C4018: '<': signed/unsigned mismatch
+SDL2_ttf.lib(SDL2_ttf.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+SDL2_ttf.lib(SDL2_ttf.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+openGL32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+openGL32.lib(OPENGL32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+SDL2_mixer.lib(SDL2_mixer.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+SDL2_mixer.lib(SDL2_mixer.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+CEGUIBase-0_d.lib(CEGUIBase-0_d.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+CEGUIBase-0_d.lib(CEGUIBase-0_d.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+CEGUIOpenGLRenderer-0_d.lib(CEGUIOpenGLRenderer-0_d.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+CEGUIOpenGLRenderer-0_d.lib(CEGUIOpenGLRenderer-0_d.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  ContinuumEngine3D.vcxproj -> C:\Users\Khoi Vu\Desktop\DaEngine\ContinuumEngine\ContinuumEngine\Debug\ContinuumEngine3D.lib

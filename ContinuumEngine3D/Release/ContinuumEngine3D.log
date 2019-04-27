@@ -1,0 +1,14 @@
+﻿  GameObject.cpp
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\deps\include\reactphysics\collision\shapes\heightfieldshape.h(257): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\deps\include\reactphysics\collision\shapes\heightfieldshape.h(265): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+  Model.cpp
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\deps\include\reactphysics\collision\shapes\heightfieldshape.h(257): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\deps\include\reactphysics\collision\shapes\heightfieldshape.h(265): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\continuumengine3d\engine\renderer\gameobject\model.cpp(106): warning C4018: '<': signed/unsigned mismatch
+SDL2_ttf.lib(SDL2_ttf.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+openGL32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+SDL2_mixer.lib(SDL2_mixer.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+CEGUIBase-0.lib(CEGUIBase-0.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+CEGUIOpenGLRenderer-0.lib(CEGUIOpenGLRenderer-0.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+  ContinuumEngine3D.vcxproj -> C:\Users\User\Documents\Jax-Kal\ContinuumEngine\ContinuumEngine\Release\ContinuumEngine3D.lib
